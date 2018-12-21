@@ -10,11 +10,14 @@
     "react-scripts": "2.1.1",
     "reactstrap": "^6.5.0"
   },
+  "homepage": "http://Maheshchoda.github.io/CRUD_React_Hooks",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "userdetails_crud_wiht_react_hooks -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
