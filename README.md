@@ -6,4 +6,4 @@ Installation notes:-
 2) cd CRUD_React_Hooks
 3) npm i
 4) npm start
-![App Screeshort](./src/Screenshot 2018-12-21 at 3.01.02 PM.png)
+![App Screeshort](../src/Screenshot.png)
