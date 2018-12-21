@@ -5,6 +5,7 @@
   "dependencies": {
     "bootstrap": "^4.1.3",
     "eslint-plugin-react-hooks": "^0.0.0",
+    "gh-pages": "^2.0.1",
     "react": "16.7.0-alpha.2",
     "react-dom": "16.7.0-alpha.2",
     "react-scripts": "2.1.1",
@@ -17,7 +18,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "userdetails_crud_wiht_react_hooks -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
